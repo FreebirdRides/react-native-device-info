@@ -12,6 +12,18 @@ if (!RNDeviceInfo && Platform.OS === 'web') {
 const devicesWithNotch = [
   {
     brand: 'Apple',
+    model: 'iPhone 11',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 11 Pro',
+  },
+  {
+    brand: 'Apple',
+    model: 'iPhone 11 Pro Max',
+  },
+  {
+    brand: 'Apple',
     model: 'iPhone X',
   },
   {
@@ -69,6 +81,14 @@ const devicesWithNotch = [
   {
     brand: 'Huawei',
     model: 'Mate 20 Pro',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P30 Lite',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P30 Pro',
   },
   {
     brand: 'Huawei',
